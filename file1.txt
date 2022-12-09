@@ -1,1 +1,2 @@
 line1 A B C
+line2 G H I
